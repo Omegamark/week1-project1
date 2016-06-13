@@ -31,7 +31,8 @@ console.log("Question 1");
 
 // 2. Declare a new variable called 'name',
 //    and then log it to the console.
-
+var name = "Mark"
+console.log(name);
 
 
 
